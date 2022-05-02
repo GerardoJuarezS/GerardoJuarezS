@@ -31,4 +31,5 @@
   <img width='20%' src='https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.2885-15/277818583_551870872815317_5124179896639638861_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=P5Vroz27QW0AX9PAtpl&tn=AuLi_QlYqGt4_SyC&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjgwNzg4Mzc2NzE4NTc3MzA3MA%3D%3D.2-ccb7-4&oh=00_AT-5sGUgnu0cI_PtVDMy4yhgBlXYI7p4yUDwWVOr0UKnug&oe=62759B99&_nc_sid=30a2ef' alt='Instagram photo' />
 </a>
 
-### gracias por visitar mi perfil y no olvides seguirme 
+### gracias por visitar mi perfil y no olvides seguirme
+### Estoy aprendiendo y mejorando cada dia 
