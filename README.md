@@ -2,7 +2,6 @@
    <img align="center" width="200" src="https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.2885-19/277103751_507940344067879_926412427939781023_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=mI7XJQIM-yUAX9uaoGh&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT8eBQRYUwIIfQq8fpMa_DH-5PY1k6AopKX1JAkHjX6RGQ&oe=6273FC71&_nc_sid=9a90d6" />
    <h3 align="center">¡Hey 👋! Soy Gerardo Juarez  👨🏻‍💻</h3>
 </p>
-
 <p align="center">Soy <strong>Ingeniero en sistemas computacionales</strong> con experiencia en C# .NET.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="#" target="blank" style='margin-right:4px'>
