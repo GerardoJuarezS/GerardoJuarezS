@@ -2,9 +2,9 @@
 
 <div align="center">
   <p align="center" href="https://github.com/GerardoJuarezS"> 
-    <img src="https://komarev.com/ghpvc/?username=gerardojuarezs&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
-    <img src="https://img.shields.io/github/followers/gerardojuarezs.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
-    <img src="https://img.shields.io/twitter/follow/JuarezSalmoran?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/>   
+    <img src="https://komarev.com/ghpvc/?username=gerardojuarezs&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="GerardoJuarezS"/> 
+    <img src="https://img.shields.io/github/followers/gerardojuarezs.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="GerardoJuarezS"/> 
+    <img src="https://img.shields.io/twitter/follow/JuarezSalmoran?color=blue&label=Follow&logo=twitter&style=flat" alt="GerardoJuarezS"/>   
   </p>
 </div>
 
@@ -32,7 +32,7 @@
   </ul>
 </div>
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerardojuarezs" alt="felft" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerardojuarezs" alt="GerardoJuarezS" /></a> </p>
 -->
  
 <h2><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=25px height=25px/> Languages and tools </h2>
