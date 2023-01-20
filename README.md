@@ -4,7 +4,8 @@
   <p align="center" href="https://github.com/GerardoJuarezS"> 
     <img src="https://komarev.com/ghpvc/?username=gerardojuarezs&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="GerardoJuarezS"/> 
     <img src="https://img.shields.io/github/followers/gerardojuarezs.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="GerardoJuarezS"/> 
-    <img src="https://img.shields.io/twitter/follow/JuarezSalmoran?color=blue&label=Follow&logo=twitter&style=flat" alt="GerardoJuarezS"/>   
+    <img src="https://img.shields.io/twitter/follow/JuarezSalmoran?color=blue&label=Follow&logo=twitter&style=flat" alt="GerardoJuarezS"/>  
+    <img src="https://tryhackme-badges.s3.amazonaws.com/gerardo.juarez.png" alt="TryHackMe">
   </p>
 </div>
 
